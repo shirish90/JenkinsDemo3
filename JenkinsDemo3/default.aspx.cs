@@ -11,7 +11,7 @@ namespace JenkinsDemo3
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            lit1.Text = "text app data";
+            lit1.Text = "text app data 2";
         }
     }
 }
