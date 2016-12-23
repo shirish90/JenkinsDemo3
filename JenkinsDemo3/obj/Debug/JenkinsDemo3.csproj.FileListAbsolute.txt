@@ -1,0 +1,7 @@
+D:\ShirishWork\JenkinsDemo3\JenkinsDemo3\bin\JenkinsDemo3.dll.config
+D:\ShirishWork\JenkinsDemo3\JenkinsDemo3\bin\JenkinsDemo3.dll
+D:\ShirishWork\JenkinsDemo3\JenkinsDemo3\bin\JenkinsDemo3.pdb
+D:\ShirishWork\JenkinsDemo3\JenkinsDemo3\obj\Debug\JenkinsDemo3.dll
+D:\ShirishWork\JenkinsDemo3\JenkinsDemo3\obj\Debug\JenkinsDemo3.pdb
+D:\ShirishWork\JenkinsDemo3\JenkinsDemo3\obj\DEBUG\JenkinsDemo3.csprojResolveAssemblyReference.cache
+D:\ShirishWork\JenkinsDemo3\JenkinsDemo3\obj\DEBUG\JenkinsDemo3.dll.config
